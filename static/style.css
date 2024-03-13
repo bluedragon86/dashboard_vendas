@@ -1,0 +1,52 @@
+/* Logo */
+/* Adapted from Zachary Blackwood */
+[data-testid="stSidebar"] {
+                background-image: url("https://cdn-icons-png.flaticon.com/512/4854/4854348.png");
+
+                /* background-image: url("logo3.png"); */
+                background-size: 100px;
+                background-repeat: no-repeat;
+                background-position: 125px 10px;
+            }
+
+
+/* Bloco */
+[class="block-container st-emotion-cache-z5fcl4 ea3mdgi5"] {
+ margin-top: -50px;
+} 
+
+/* Metrica */
+[class="st-emotion-cache-1wivap2 e1i5pmia3"] {
+  background-color: #7ca2d5;
+  border: 1px solid #CCCCCC;
+  font-size: 40px;
+  border-radius: 5px;
+  box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15) !important;
+  width: 350px;
+
+  text-align: center;
+  p {
+    font-size: 40px;
+  }
+} 
+
+/*Sidebar*/
+[class="st-emotion-cache-16txtl3 eczjsme4"] {
+  height: 900px;  
+} 
+
+/*Interior sidebar*/
+[class="st-emotion-cache-1diiu6o e1f1d6gn2"] {
+  margin-top: 30px;
+  h2 {
+    font-size: 30px;
+  }
+  code {
+    background-color: #d5d5dd;
+  }
+} 
+
+header.st-emotion-cache-uc1cuc.ezrtsby2{
+  display: none;
+ }
+ 
